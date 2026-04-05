@@ -5,4 +5,4 @@ this repository contains basic c programs for practice and learning.
 ## devoloped
 using dev c++
 ##author
-Abhishikta Mishra
+Abhishikta Mishra.
